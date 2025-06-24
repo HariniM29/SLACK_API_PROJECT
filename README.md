@@ -20,3 +20,5 @@ This project showcases the fundamental messaging capabilities of Slack through t
 2. Install the necessary dependencies (Axios for handling HTTP requests):
    ```bash
    npm install axios
+
+![image](https://github.com/user-attachments/assets/13f89e6a-4bd3-4fc2-b066-7a5f0007d5bb)
